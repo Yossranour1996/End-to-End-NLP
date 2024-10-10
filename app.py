@@ -1,6 +1,4 @@
 
-
-
 from hate.pipeline.train_pipeline import TrainPipeline
 from fastapi import FastAPI
 import uvicorn
